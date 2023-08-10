@@ -23,4 +23,4 @@ Join our community of visionaries on the journey to shape the future of Computer
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/johnhdeleon/CVToolKit/blob/main/LICENSE).
